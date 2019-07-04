@@ -1,0 +1,17 @@
+{
+  "name": "peticiones_npm",
+  "version": "1.0.0",
+  "description": "proyecto_peticiones",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peticiones"
+  ],
+  "author": "Berenice",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
