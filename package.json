@@ -1,0 +1,26 @@
+{
+  "name": "cinta_roja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B3R307/cinta_roja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B3R307/cinta_roja/issues"
+  },
+  "homepage": "https://github.com/B3R307/cinta_roja#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "boostrap": "^2.0.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
